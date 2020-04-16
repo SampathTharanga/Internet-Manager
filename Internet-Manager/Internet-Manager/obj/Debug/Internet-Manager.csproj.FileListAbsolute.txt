@@ -1,0 +1,10 @@
+G:\Internet-Manager\Internet-Manager\Internet-Manager\bin\Debug\Internet-Manager.exe.config
+G:\Internet-Manager\Internet-Manager\Internet-Manager\bin\Debug\Internet-Manager.exe
+G:\Internet-Manager\Internet-Manager\Internet-Manager\bin\Debug\Internet-Manager.pdb
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.csprojAssemblyReference.cache
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet_Manager.Form1.resources
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet_Manager.Properties.Resources.resources
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.csproj.GenerateResource.cache
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.csproj.CoreCompileInputs.cache
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.exe
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.pdb
