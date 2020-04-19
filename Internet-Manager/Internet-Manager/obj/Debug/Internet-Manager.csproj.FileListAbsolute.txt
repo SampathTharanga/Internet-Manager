@@ -8,3 +8,4 @@ G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager
 G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.csproj.CoreCompileInputs.cache
 G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.exe
 G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet-Manager.pdb
+G:\Internet-Manager\Internet-Manager\Internet-Manager\obj\Debug\Internet_Manager.FormHome.resources
